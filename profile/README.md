@@ -6,7 +6,7 @@
 
   A multi-purpose Discord bot bridging ER:LC Private Server communities with their Discord.
 
-  [![Status](https://img.shields.io/badge/status-uptime-brightgreen?style=for-the-badge&logo=betterstack&logoColor=white)](https://uptime.uplinkbot.xyz)
+  [![Status](https://img.shields.io/badge/status-black?style=for-the-badge&logo=betterstack&logoColor=white)](https://uptime.uplinkbot.xyz)
   [![Docs](https://img.shields.io/badge/docs-black?style=for-the-badge&logo=gitbook&logoColor=white)](https://docs.uplinkbot.xyz)
   [![Contact](https://img.shields.io/badge/contact-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:github@uplinkbot.xyz)
 
