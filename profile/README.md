@@ -13,4 +13,4 @@
 
 ---
 
-> Not affiliated with Polaroid Studios or Roblox.
+> Not affiliated with PRC (erlc) or Roblox.
