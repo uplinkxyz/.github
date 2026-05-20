@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/uplink-lockup.svg" alt="Uplink" width="260" />
+  <img src="../assets/uplink-lockup.svg" alt="Uplink" width="260" />
 
   <br />
   <br />
