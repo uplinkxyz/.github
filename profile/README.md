@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="../assets/uplink-lockup.svg" alt="Uplink" width="260" />
+  <img src="https://assets.uplinkbot.xyz/uplink-lockup.svg" />
 
   <br />
   <br />
