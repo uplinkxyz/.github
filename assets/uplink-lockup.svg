@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 100" width="310" height="100">
+<path d="M2 78 H80 L96 64" stroke="#e8e8e6" stroke-width="2" stroke-linecap="square" fill="none"></path>
+<ellipse cx="40" cy="56" rx="22" ry="11" fill="#e8e8e6"></ellipse>
+<circle cx="58" cy="40" r="9" fill="#e8e8e6"></circle>
+<path fill="#e8e8e6" d="M 52 46 L 64 50 L 62 42 Z"></path>
+<path fill="#e8e8e6" d="M 66 38 L 84 41 L 66 43 Z"></path>
+<path fill="#e8e8e6" d="M 20 52 L 2 48 L 22 60 Z"></path>
+<path fill="#0d0d0d" d="M 26 52 Q 40 46 54 50 Q 50 58 36 60 Q 28 60 26 52 Z"></path>
+<circle cx="62" cy="38" r="1.1" fill="#0d0d0d"></circle>
+<path d="M 36 66 L 36 78 M 44 66 L 44 78" stroke="#e8e8e6" stroke-width="1.4"></path>
+<text x="114" y="56" font-family="Geist, Inter, &#39;Helvetica Neue&#39;, system-ui, sans-serif" font-weight="500" font-size="62" letter-spacing="-2.48" fill="#e8e8e6" dominant-baseline="middle">uplink</text>
+</svg>
